@@ -1,0 +1,267 @@
+/* No comment provided by engineer. */
+"%@ PIN attempt(s) left." = "%@ PIN-Versuch(e) verbleiben.";
+
+/* No comment provided by engineer. */
+"Abort" = "Abbrechen";
+
+/* No comment provided by engineer. */
+"Accept" = "Akzeptieren";
+
+/* No comment provided by engineer. */
+"Access rights could not be loaded" = "Berechtigungen konnten nicht geladen werden";
+
+/* Pretty name of Address */
+"Address" = "Adresse";
+
+/* Pretty name of AddressVerification */
+"Address verification" = "Wohnortbestätigung";
+
+/* Pretty name of AgeVerification */
+"Age verification" = "Altersbestätigung";
+
+/* No comment provided by engineer. */
+"An error occurred, the authentication was aborted!" = "Ein Fehler ist aufgetreten, die Authentisierung wurde abgebrochen!";
+
+/* Authentication error message was empty */
+"An unknown error occurred during authentication." = "Während der Authentisierung ist ein unbekannter Fehler aufgetreten.";
+
+/* No comment provided by engineer. */
+"An unknown error occurred during authentication. Please inform the software manufacturer about the problem." = "Während der Authentisierung ist ein unbekannter Fehler aufgetreten. Bitte informieren Sie den Softwarehersteller über dieses Problem.";
+
+/* No comment provided by engineer. */
+"Authentication aborted" = "Authentisierung abgebrochen";
+
+/* Pretty name of BirthName */
+"Birth name" = "Geburtsname";
+
+/* No comment provided by engineer. */
+"Camera permission" = "Kamera-Berechtigung";
+
+/* No comment provided by engineer. */
+"Camera permission needed, please go to the application settings to enable it!" = "Kamera-Berechtigung benötigt, bitte wechseln Sie in die Anwendungseinstellungen um diese zu aktivieren!";
+
+/* CAN navigation title */
+"CAN required" = "CAN erforderlich";
+
+/* Pretty name of CanAllowed */
+"CAN-allowed" = "CAN-erlaubt";
+
+/* No comment provided by engineer. */
+"Card access required" = "Kartenzugriff erforderlich";
+
+/* No comment provided by engineer. */
+"Certificate" = "Zertifikat";
+
+/* No comment provided by engineer. */
+"Certificate description can't be displayed" = "Zertifikatsdetails können nicht angezeigt werden";
+
+/* No comment provided by engineer. */
+"Certificate details" = "Zertifikatsdetails";
+
+/* No comment provided by engineer. */
+"Change PIN" = "PIN-Änderung";
+
+/* No comment provided by engineer. */
+"Change the PIN" = "Änderung der PIN";
+
+/* No comment provided by engineer. */
+"Communication with the ID card required, please place the device on the ID card." = "Kommunikation mit dem Ausweis erforderlich, bitte legen Sie das Gerät auf den Ausweis.";
+
+/* Pretty name of CommunityID */
+"Community-ID" = "Wohnort-ID";
+
+/* Placeholder for confirmation of new PIN */
+"Confirm PIN" = "PIN bestätigen";
+
+/* No comment provided by engineer. */
+"Confirmation PIN does not match new PIN." = "Die Bestätigung der PIN stimmt nicht mit der neuen PIN überein.";
+
+/* No comment provided by engineer. */
+"Continue" = "Fortsetzen";
+
+/* Pretty name of DateOfBirth */
+"Date of birth" = "Geburtsdatum";
+
+/* Pretty name of DoctoralDegree */
+"Doctoral degree" = "Doktorgrad";
+
+/* Pretty name of DocumentType */
+"Document type" = "Dokumentenart";
+
+/* No comment provided by engineer. */
+"Error" = "Fehler";
+
+/* No comment provided by engineer. */
+"Expiration date" = "Ablaufdatum";
+
+/* Pretty name of FamilyName */
+"Family name" = "Familienname";
+
+/* Transport PIN input placeholder */
+"Five-digit PIN" = "Fünfstellige PIN";
+
+/* Pretty name of GivenNames */
+"Given name(s)" = "Vorname(n)";
+
+/* No comment provided by engineer. */
+"Go to application settings" = "Zu Anwendungseinstellungen wechseln";
+
+/* ID card too far away scan hint */
+"ID card too far away, please hold the phone close to the ID card." = "Ausweis zu weit weg, halten Sie das Telefon bitte näher an den Ausweis.";
+
+/* No comment provided by engineer. */
+"Issue date" = "Ausgabedatum";
+
+/* No comment provided by engineer. */
+"Issuer information" = "Ausstellerinformationen";
+
+/* No comment provided by engineer. */
+"Issuer name" = "Name des Ausstellers";
+
+/* No comment provided by engineer. */
+"Issuer URL" = "URL des Ausstellers";
+
+/* Pretty name of IssuingCountry */
+"Issuing country" = "Ausstellender Staat";
+
+/* No comment provided by engineer. */
+"Loading certificate…" = "Lade Zertifikat…";
+
+/* Pretty name of Nationality */
+"Nationality" = "Staatsangehörigkeit";
+
+/* Placeholder for new PIN */
+"New PIN" = "Neue PIN";
+
+/* No comment provided by engineer. */
+"No camera permission!" = "Keine Kamera-Berechtigung!";
+
+/* No comment provided by engineer. */
+"Optional Data" = "Optionale Daten";
+
+/* PIN navigation title */
+"PIN required" = "PIN erforderlich";
+
+/* Pretty name of PlaceOfBirth */
+"Place of birth" = "Geburtsort";
+
+/* No comment provided by engineer. */
+"Please enter a new PIN and confirm it." = "Bitte geben Sie eine neue PIN ein und bestätigen Sie diese.";
+
+/* CAN CTA */
+"Please enter the CAN." = "Bitte geben Sie die CAN ein.";
+
+/* PIN CTA */
+"Please enter the PIN." = "Bitte geben Sie die PIN ein.";
+
+/* PUK CTA */
+"Please enter the PUK." = "Bitte geben Sie die PUK ein.";
+
+/* Transport PIN CTA */
+"Please enter the Transport PIN." = "Bitte geben Sie die Transport-PIN ein.";
+
+/* No comment provided by engineer. */
+"Please wait until the service provider certificate has been loaded." = "Bitte warten Sie, bis das Zertifikat des Anbieters geladen wurde.";
+
+/* No comment provided by engineer. */
+"Provider" = "Anbieter";
+
+/* Pretty name of Pseudonym */
+"Pseudonym" = "Pseudonym";
+
+/* PUK navigation title */
+"PUK required" = "PUK erforderlich";
+
+/* No comment provided by engineer. */
+"Purpose" = "Zweck";
+
+/* Pretty name of ArtisticName */
+"Religious / artistic name" = "Ordens- / Künstlername";
+
+/* No comment provided by engineer. */
+"Requested Data" = "Angefragte Daten";
+
+/* No comment provided by engineer. */
+"Required Data" = "Erforderliche Daten";
+
+/* Pretty name of ResidencePermitI */
+"Residence permit I" = "Nebenbestimmungen I (nur eAT)";
+
+/* Pretty name of ResidencePermitII */
+"Residence permit II" = "Nebenbestimmungen II";
+
+/* ID card scan title */
+"Scan ID card" = "Ausweis scannen";
+
+/* QR code scan title */
+"Scan QR code" = "QR-Code scannen";
+
+/* Scanning id card hint */
+"Scanning ID card, please make sure the text is readable and no watermark is showing." = "Scanne Ausweis, stellen Sie bitte sicher, dass der Text lesbar ist und kein Wasserzeichen zu sehen ist.";
+
+/* Generic ID card scan hint */
+"Searching ID card, please place it on a plain background and make sure it is completely visible." = "Suche Ausweis, legen Sie ihn bitte auf einen neutralen Hintergrund und achten Sie darauf, dass er vollständig sichtbar ist.";
+
+/* QR code scan hint */
+"Searching QR code, please point the phone towards it and make sure it is completely visible." = "Suche QR code, richten Sie das Telefon darauf und achten Sie darauf, dass es vollständig sichtbar ist.";
+
+/* No comment provided by engineer. */
+"Service provider details" = "Anbieterdetails";
+
+/* CAN input placeholder */
+"Six-digit CAN" = "Sechsstellige CAN";
+
+/* PIN input placeholder */
+"Six-digit PIN" = "Sechsstellige PIN";
+
+/* No comment provided by engineer. */
+"Subject information" = "Anbieterinformationen";
+
+/* No comment provided by engineer. */
+"Subject name" = "Anbietername";
+
+/* No comment provided by engineer. */
+"Subject URL" = "Anbieter-URL";
+
+/* PUK input placeholder */
+"Ten-digit PUK" = "Zehnstellige PUK";
+
+/* No comment provided by engineer. */
+"Terms of Usage" = "Nutzungsbedingungen";
+
+/* No comment provided by engineer. */
+"The authentication was aborted, waiting for response from service provider." = "Die Authentisierung wurde abgebrochen, warte auf Antwort des Anbieters.";
+
+/* CAN info */
+"The CAN is needed to continue with the workflow. You can find the six-digit CAN on the front of the ID card." = "Die CAN ist erforderlich, um mit dem Vorgang fortzufahren. Sie können die sechsstellige CAN auf der Vorderseite des Ausweises finden.";
+
+/* PUK info */
+"The ID card is blocked! Please enter the PUK to unblock it." = "Der Ausweis ist gesperrt! Bitte geben Sie die PUK ein, um ihn zu entsperren.";
+
+/* No comment provided by engineer. */
+"The last input was incorrect!" = "Die letzte Eingabe war fehlerhaft!";
+
+/* No comment provided by engineer. */
+"Unknown state" = "Unbekannter Zustand";
+
+/* Pretty name of ValidUntil */
+"Valid until" = "Gültig bis";
+
+/* No comment provided by engineer. */
+"Validity" = "Gültigkeit";
+
+/* No comment provided by engineer. */
+"viewModel.state = %@" = "viewModel.state = %@";
+
+/* Pretty name of WriteAddress */
+"Write address" = "Schreibrecht Adresse";
+
+/* Pretty name of WriteCommunityID */
+"Write community-ID" = "Schreibrecht Wohnort-ID";
+
+/* Pretty name of WriteResidencePermitI */
+"Write residence permit I" = "Schreibrecht Nebenbestimmungen I";
+
+/* Pretty name of WriteResidencePermitII */
+"Write residence permit II" = "Schreibrecht Nebenbestimmungen II";
+
